@@ -65,36 +65,37 @@ Check out my coding activity over the past year:
 
 ### 🏆 Certifications
 - **HashiCorp Certified: Terraform Associate (003)** *(December 2024)*  
-  ![Terraform Logo](https://img.shields.io/badge/Certification-HashiCorp%20Certified%20Terraform%20Associate%20(003)-623CE4?style=flat)
-  
+  [View Badge](https://www.credly.com/badges/5ca08f1f-97d5-46ab-bbba-ff528a8fa08c/public_url)
+
 - **AWS Certified Solutions Architect** *(September 2024)*  
-  ![AWS Logo](https://img.shields.io/badge/Certification-AWS%20Certified%20Solutions%20Architect-232F3E?style=flat)
-  
+  [View Badge](https://www.credly.com/badges/22e31b67-d458-4ee2-9ece-1fdfd8b23eb2/public_url)
+
 - **AWS Certified Cloud Practitioner** *(September 2023)*  
-  ![AWS Cloud Practitioner Logo](https://img.shields.io/badge/Certification-AWS%20Certified%20Cloud%20Practitioner-232F3E?style=flat)
+  [View Badge](https://www.credly.com/badges/36381d4f-0249-41cc-bc4a-848f9ea27dd5/public_url)
 
 - **AI-900 - Azure AI Fundamentals** *(March 2024)*  
-  ![Azure AI Fundamentals Logo](https://img.shields.io/badge/Certification-AI--900%20Azure%20AI%20Fundamentals-0089D6?style=flat)
+  [View Badge](https://learn.microsoft.com/fr-fr/users/ahmedjomaa-0815/credentials/d0787143b9f93112)
 
 ---
 
 ### 🚀 Projects
 Here are some of my notable projects:
 
-#### DevSecOps CI/CD Pipeline for Amazon EKS
-- Automated CI/CD with Jenkins, Docker, and Terraform, deploying on Amazon EKS to handle 3 microservices.  
-- Configured Kubernetes RBAC for secure cluster access and integrated a custom domain via load balancer.  
-- [GitHub Link](https://github.com/jomaa-ahmed/devsecops-eks) <!-- Example link -->
 
-#### CI/CD Pipeline Automation
-- Developed a GitLab CI-based pipeline, automating build/testing, reducing deployment time by 30%.  
-- Integrated SonarQube for code quality and leveraged Docker for containerized builds.  
-- [GitHub Link](https://github.com/jomaa-ahmed/cicd-automation) <!-- Example link -->
-
-#### Full-Stack Web App
+#### Full-Stack Web App  
 - Built a React.js/Node.js application for conservatory management, reducing paper usage by 40%.  
 - Integrated Azure AI for automated document parsing, cutting manual data entry by 50%.  
-- [Live Demo](https://jomaa-ahmed.github.io/full-stack-web-app/) <!-- Example link -->
+- [GitHub Link](https://github.com/jomaa-ahmed/El_Kindy_Project_2024)
+
+#### DevSecOps CI/CD Pipeline for Amazon EKS  
+- Automated CI/CD with Jenkins, Docker, and Terraform, deploying on Amazon EKS to handle 3 microservices.  
+- Configured Kubernetes RBAC for secure cluster access and integrated a custom domain via load balancer.  
+- [GitHub Link](https://github.com/jomaa-ahmed/Devsecops-project-EKS)
+
+#### CI/CD Pipeline Automation  
+- Developed a GitLab CI-based pipeline, automating build/testing, reducing deployment time by 30%.  
+- Integrated SonarQube for code quality and leveraged Docker for containerized builds.  
+
 
 ---
 
