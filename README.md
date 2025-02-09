@@ -9,7 +9,6 @@ I'm a passionate **Computer Science student** and **DevOps enthusiast** with han
 - 💬 Ask me about **AWS, Docker, Kubernetes, or CI/CD pipelines**.
 - 📫 How to reach me: [Email](mailto:ahmedjomaa40@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmedjomaa/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I reduced deployment times by 30% using Jenkins and Kubernetes!
 
 ---
 
@@ -36,8 +35,13 @@ Here are some of the technologies and tools I work with:
 #### Frameworks & Databases
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 
 ---
 
@@ -60,10 +64,17 @@ Check out my coding activity over the past year:
 ---
 
 ### 🏆 Certifications
-- **HashiCorp Certified: Terraform Associate (003)** (December 2024)  
-- **AWS Certified Solutions Architect** (September 2024)  
-- **AWS Certified Cloud Practitioner** (September 2023)  
-- **AI-900 - Azure AI Fundamentals** (March 2024)  
+- **HashiCorp Certified: Terraform Associate (003)** *(December 2024)*  
+  ![Terraform Logo](https://img.shields.io/badge/Certification-HashiCorp%20Certified%20Terraform%20Associate%20(003)-623CE4?style=flat)
+  
+- **AWS Certified Solutions Architect** *(September 2024)*  
+  ![AWS Logo](https://img.shields.io/badge/Certification-AWS%20Certified%20Solutions%20Architect-232F3E?style=flat)
+  
+- **AWS Certified Cloud Practitioner** *(September 2023)*  
+  ![AWS Cloud Practitioner Logo](https://img.shields.io/badge/Certification-AWS%20Certified%20Cloud%20Practitioner-232F3E?style=flat)
+
+- **AI-900 - Azure AI Fundamentals** *(March 2024)*  
+  ![Azure AI Fundamentals Logo](https://img.shields.io/badge/Certification-AI--900%20Azure%20AI%20Fundamentals-0089D6?style=flat)
 
 ---
 
@@ -73,17 +84,17 @@ Here are some of my notable projects:
 #### DevSecOps CI/CD Pipeline for Amazon EKS
 - Automated CI/CD with Jenkins, Docker, and Terraform, deploying on Amazon EKS to handle 3 microservices.  
 - Configured Kubernetes RBAC for secure cluster access and integrated a custom domain via load balancer.  
-- [GitHub Link](#)
+- [GitHub Link](https://github.com/jomaa-ahmed/devsecops-eks) <!-- Example link -->
 
 #### CI/CD Pipeline Automation
 - Developed a GitLab CI-based pipeline, automating build/testing, reducing deployment time by 30%.  
 - Integrated SonarQube for code quality and leveraged Docker for containerized builds.  
-- [GitHub Link](#)
+- [GitHub Link](https://github.com/jomaa-ahmed/cicd-automation) <!-- Example link -->
 
 #### Full-Stack Web App
 - Built a React.js/Node.js application for conservatory management, reducing paper usage by 40%.  
 - Integrated Azure AI for automated document parsing, cutting manual data entry by 50%.  
-- [Live Demo](#)
+- [Live Demo](https://jomaa-ahmed.github.io/full-stack-web-app/) <!-- Example link -->
 
 ---
 
