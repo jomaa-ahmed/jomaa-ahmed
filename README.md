@@ -1,4 +1,4 @@
-# Hello, I'm Ahmed Jemaa! 👋
+# Hello, I'm JEMAA AHMED! 👋
 
 ### 👨‍💻 About Me
 I'm a passionate **Computer Science student** and **DevOps enthusiast** with hands-on experience in cloud automation, CI/CD pipelines, and IoT solutions. I love building scalable systems and solving real-world problems using cutting-edge technologies.
